@@ -1,0 +1,25 @@
+{
+  "name": "my-tutorials-koajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genrbe/my-tutorials-koajs.git"
+  },
+  "author": "genrbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genrbe/my-tutorials-koajs/issues"
+  },
+  "homepage": "https://github.com/genrbe/my-tutorials-koajs#readme",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-basic-auth": "^3.0.0",
+    "koa-static": "^5.0.0"
+  }
+}
